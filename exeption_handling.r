@@ -1,3 +1,4 @@
+# simple exception handling in R 
 # Define a function to perform division
 performDivision <- function(a, b) {
   result <- tryCatch({
